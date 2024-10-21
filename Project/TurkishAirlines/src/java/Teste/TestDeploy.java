@@ -24,4 +24,9 @@ class TestDeploy {
 	void testThalim() {
 		fail("testeThales");
 	}
+	
+	@Test
+	void testEclipseJavaEE() {
+		fail("funcionou2");
+	}
 }
