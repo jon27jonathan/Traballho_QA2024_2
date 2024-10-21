@@ -19,4 +19,9 @@ class TestDeploy {
 	void testmarcio() {
 		fail("testeMarcio");
 	}
+	
+	@Test
+	void testThalim() {
+		fail("testeThales");
+	}
 }
